@@ -53,7 +53,5 @@ void findLocalMax(const double x[][N], bool y[][N]){
 				y[i+1][j+1]=0;
 			}	
 		}
-		
 	}
-	
 }
